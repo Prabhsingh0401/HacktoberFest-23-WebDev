@@ -3,8 +3,9 @@
  Basic Calculator Project
 </h2>
 
-This is a simple web-based calculator project built with HTML, CSS, and JavaScript. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division. The project is designed to help you understand the fundamentals of web development and JavaScript.
+This is a simple web-based calculator project built with HTML, CSS, and JavaScript. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division. The project is designed to help you understand the fundamentals of web development and JavaScript. 
 
+<h1>Click below to view the screenshot</h1>
 [Calculator Screenshot](calc.png)
 
 ## Table of Contents 📑
